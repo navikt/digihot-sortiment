@@ -1,0 +1,2047 @@
+[
+  {
+    "isokode": "12230301",
+    "isotittel": "Elektriske rullestoler manuell styring utebruk",
+    "kortnavn": "Elektrisk rullestol"
+  },
+  {
+    "isokode": "9330701",
+    "isotittel": "Dusjkrakker",
+    "kortnavn": "Dusjkrakk"
+  },
+  {
+    "isokode": "12270701",
+    "isotittel": "Sittevogner",
+    "kortnavn": "Sittevogn"
+  },
+  {
+    "isokode": "5360301",
+    "isotittel": "Ståstativer",
+    "kortnavn": "Ståstativ"
+  },
+  {
+    "isokode": "5061501",
+    "isotittel": "Treningshjelpemidler for punktskrift (Braille)",
+    "kortnavn": "Treningshjelpemiddel"
+  },
+  {
+    "isokode": "9333901",
+    "isotittel": "Flytehjelpemidler",
+    "kortnavn": "Flytehjelpemiddel"
+  },
+  {
+    "isokode": "9060301",
+    "isotittel": "Hodebeskyttere",
+    "kortnavn": "Hodebeskytter"
+  },
+  {
+    "isokode": "18090701",
+    "isotittel": "Ståstoler",
+    "kortnavn": "Ståstol"
+  },
+  {
+    "isokode": "9121801",
+    "isotittel": "Faste toalettforhøyere",
+    "kortnavn": "Toalettforhøyer"
+  },
+  {
+    "isokode": "18121809",
+    "isotittel": "Overmadrasser statiske",
+    "kortnavn": "Overmadrass"
+  },
+  {
+    "isokode": "18093903",
+    "isotittel": "Sittemoduler og understell kombinasjon",
+    "kortnavn": "Sittemodul"
+  },
+  {
+    "isokode": "18330303",
+    "isotittel": "Fliser, sklihindrende",
+    "kortnavn": "Sklistopp"
+  },
+  {
+    "isokode": "18121504",
+    "isotittel": "Laken og madrassovertrekk",
+    "kortnavn": "Laken-/madrasstrekk"
+  },
+  {
+    "isokode": "18121503",
+    "isotittel": "Trekk til dyner og puter",
+    "kortnavn": "Dyne-/putetrekk"
+  },
+  {
+    "isokode": "15091601",
+    "isotittel": "Drikkehjelpemidler",
+    "kortnavn": "Drikkehjelpemiddel"
+  },
+  {
+    "isokode": "9330702",
+    "isotittel": "Dusjkrakker veggmonterte",
+    "kortnavn": "Dusjkrakk"
+  },
+  {
+    "isokode": "9120301",
+    "isotittel": "Kombinerte dusj- og toalettstoler",
+    "kortnavn": "Dusj-/toalettstol"
+  },
+  {
+    "isokode": "9120901",
+    "isotittel": "Toalettseter",
+    "kortnavn": "Toalettsete"
+  },
+  {
+    "isokode": "9122502",
+    "isotittel": "Støttehåndtak til toalett - ikke toalettmonterte",
+    "kortnavn": "Støttehåndtak"
+  },
+  {
+    "isokode": "24180601",
+    "isotittel": "Påbyggingsgrep",
+    "kortnavn": "Påbyggingsgrep"
+  },
+  {
+    "isokode": "9331202",
+    "isotittel": "Stellebord veggmonterte",
+    "kortnavn": "Stellebord"
+  },
+  {
+    "isokode": "24210901",
+    "isotittel": "Forlengere uten gripefunksjon",
+    "kortnavn": "Forlenger"
+  },
+  {
+    "isokode": "12220301",
+    "isotittel": "Manuelle rullestoler aktive",
+    "kortnavn": "Manuell rullestol"
+  },
+  {
+    "isokode": "24361501",
+    "isotittel": "Tilhengere for sykkel",
+    "kortnavn": "Sykkeltilhenger"
+  },
+  {
+    "isokode": "18181101",
+    "isotittel": "Armstøtter veggmonterte",
+    "kortnavn": "Armstøtte"
+  },
+  {
+    "isokode": "12180607",
+    "isotittel": "Trehjulsykler med fast nav",
+    "kortnavn": "Trehjulsykkel"
+  },
+  {
+    "isokode": "12180603",
+    "isotittel": "Trehjulsykler med hjelpemotor",
+    "kortnavn": "Trehjulsykkel"
+  },
+  {
+    "isokode": "18150602",
+    "isotittel": "Høyderegulering for servanter",
+    "kortnavn": "Servantregulering"
+  },
+  {
+    "isokode": "18360301",
+    "isotittel": "Hyller",
+    "kortnavn": "Hylle"
+  },
+  {
+    "isokode": "22240302",
+    "isotittel": "Bilde- og videotelefoner",
+    "kortnavn": "Telefoni"
+  },
+  {
+    "isokode": "12230602",
+    "isotittel": "Elektriske rullestoler motorisert styring begrenset utebruk",
+    "kortnavn": "Elektrisk rullestol"
+  },
+  {
+    "isokode": "18090303",
+    "isotittel": "Kontorstoler høyderegulerbare",
+    "kortnavn": "Kontorstol"
+  },
+  {
+    "isokode": "15152101",
+    "isotittel": "Sakser",
+    "kortnavn": "Saks"
+  },
+  {
+    "isokode": "18091504",
+    "isotittel": "Lenestoler",
+    "kortnavn": "Lenestol"
+  },
+  {
+    "isokode": "18100601",
+    "isotittel": "Sitteputer for komfort",
+    "kortnavn": "Sittepute"
+  },
+  {
+    "isokode": "12310302",
+    "isotittel": "Skli- og vendehjelpemidler,  myke uten polstring",
+    "kortnavn": "Skli-/vendehjelpemiddel"
+  },
+  {
+    "isokode": "18121802",
+    "isotittel": "Madrasser dynamiske",
+    "kortnavn": "Madrass"
+  },
+  {
+    "isokode": "4481501",
+    "isotittel": "Andre arm-,  kropps- og bentreningsutstyr",
+    "kortnavn": "Treningsutstyr"
+  },
+  {
+    "isokode": "4482701",
+    "isotittel": "Utstyr for posisjonering ",
+    "kortnavn": "Posisjoneringsutstyr"
+  },
+  {
+    "isokode": "4481502",
+    "isotittel": "Treningsballer",
+    "kortnavn": "Treningsball"
+  },
+  {
+    "isokode": "12271501",
+    "isotittel": "Krabbevogner og rullebrett",
+    "kortnavn": "Krabbevogn"
+  },
+  {
+    "isokode": "4360901",
+    "isotittel": "Hjelpemidler for sansestimulering",
+    "kortnavn": "Sansestimulering"
+  },
+  {
+    "isokode": "30030301",
+    "isotittel": "Leker",
+    "kortnavn": "Leke"
+  },
+  {
+    "isokode": "30093302",
+    "isotittel": "Hjelpemidler for svømming og aktivitet i vann",
+    "kortnavn": "Badehjelpemiddel"
+  },
+  {
+    "isokode": "9033301",
+    "isotittel": "Badetøy",
+    "kortnavn": "Badetøy"
+  },
+  {
+    "isokode": "18092101",
+    "isotittel": "Spesielle sittemøbler",
+    "kortnavn": "Sittemøbel"
+  },
+  {
+    "isokode": "15092401",
+    "isotittel": "Eggeglass",
+    "kortnavn": "Eggeglass"
+  },
+  {
+    "isokode": "24270601",
+    "isotittel": "Sklihindrende underlag",
+    "kortnavn": "Sklistopp"
+  },
+  {
+    "isokode": "15091301",
+    "isotittel": "Bestikk,  bestikksett og sugerør",
+    "kortnavn": "Bestikk"
+  },
+  {
+    "isokode": "24180901",
+    "isotittel": "Kroppsbårne holdere",
+    "kortnavn": "Holder "
+  },
+  {
+    "isokode": "15092101",
+    "isotittel": "Tallerkenskjermer",
+    "kortnavn": "Tallerkenskjerm"
+  },
+  {
+    "isokode": "15091801",
+    "isotittel": "Tallerkner,  -varmere og smørebrett",
+    "kortnavn": "Tallerken"
+  },
+  {
+    "isokode": "9032701",
+    "isotittel": "Strømpebukser,  strømper og sokker",
+    "kortnavn": "Strømper"
+  },
+  {
+    "isokode": "9540901",
+    "isotittel": "Vibratorer og massasjeutstyr",
+    "kortnavn": "Vibrator"
+  },
+  {
+    "isokode": "4482401",
+    "isotittel": "Biofeedback-utstyr til bevegelse-,  styrke-og balansetrening ",
+    "kortnavn": "Biofeedback-utstyr"
+  },
+  {
+    "isokode": "4270901",
+    "isotittel": "Muskelstimulator som ikke brukes som ortoser",
+    "kortnavn": "Muskelstimulator"
+  },
+  {
+    "isokode": "24182401",
+    "isotittel": "Manuskriptholdere",
+    "kortnavn": "Manuskriptholder"
+  },
+  {
+    "isokode": "9333001",
+    "isotittel": "Vaskehjelpemidler",
+    "kortnavn": "Vaskehjelpemiddel"
+  },
+  {
+    "isokode": "12120901",
+    "isotittel": "Bilbelter og støtteseler",
+    "kortnavn": "Bilbelte"
+  },
+  {
+    "isokode": "9034801",
+    "isotittel": "Kneppe- og festeanordninger",
+    "kortnavn": "Festeanordninger"
+  },
+  {
+    "isokode": "18150301",
+    "isotittel": "Forhøyningsklosser og -plater",
+    "kortnavn": "Forhøyningshjelpemiddel"
+  },
+  {
+    "isokode": "9270901",
+    "isotittel": "Urinflasker",
+    "kortnavn": "Urinflaske"
+  },
+  {
+    "isokode": "22030901",
+    "isotittel": "Luper for forstørrelse",
+    "kortnavn": "Lupe"
+  },
+  {
+    "isokode": "12030303",
+    "isotittel": "Gåstaver",
+    "kortnavn": "Gåstav"
+  },
+  {
+    "isokode": "4481201",
+    "isotittel": "Utstyr for å trene finger- og/eller håndfunksjon",
+    "kortnavn": "Treningshjelpemiddel"
+  },
+  {
+    "isokode": "24181202",
+    "isotittel": "Stativer",
+    "kortnavn": "Stativ"
+  },
+  {
+    "isokode": "30030902",
+    "isotittel": "Elektroniske spill",
+    "kortnavn": "Spill"
+  },
+  {
+    "isokode": "12072701",
+    "isotittel": "Produkter for å holde ganghjelpemidler på plass når de ikke er i bruk",
+    "kortnavn": "Holder"
+  },
+  {
+    "isokode": "15031201",
+    "isotittel": "Hjelpemidler til baking",
+    "kortnavn": "Kjøkkenhjelpemiddel"
+  },
+  {
+    "isokode": "22120601",
+    "isotittel": "Skrive- og tegnebrett",
+    "kortnavn": "Tegnebrett"
+  },
+  {
+    "isokode": "24210301",
+    "isotittel": "Manuelle gripetenger",
+    "kortnavn": "Gripetang"
+  },
+  {
+    "isokode": "4300301",
+    "isotittel": "Hjelpemidler for varmebehandling",
+    "kortnavn": "Varmebehandling"
+  },
+  {
+    "isokode": "15030901",
+    "isotittel": "Skrelle- og rensehjelpemidler",
+    "kortnavn": "Kjøkkenhjelpemiddel"
+  },
+  {
+    "isokode": "30300001",
+    "isotittel": "Hjelpemidler for røyking",
+    "kortnavn": "Røykehjelpemiddel"
+  },
+  {
+    "isokode": "18100301",
+    "isotittel": "Faste ryggstøtter",
+    "kortnavn": "Ryggstøtte"
+  },
+  {
+    "isokode": "9090301",
+    "isotittel": "Strømpepå- og avtrekkere",
+    "kortnavn": "Strømpepåtrekker"
+  },
+  {
+    "isokode": "22120301",
+    "isotittel": "Skrivehjelpemidler",
+    "kortnavn": "Skrivehjelpemiddel"
+  },
+  {
+    "isokode": "9062101",
+    "isotittel": "Fot-,  hæl- og tåbeskyttere",
+    "kortnavn": "Fotbeskytter"
+  },
+  {
+    "isokode": "22242102",
+    "isotittel": "Forsterkede telefoner",
+    "kortnavn": "Telefoni"
+  },
+  {
+    "isokode": "15061501",
+    "isotittel": "Klutvridere",
+    "kortnavn": "Klutvrider"
+  },
+  {
+    "isokode": "15030601",
+    "isotittel": "Brødkniver",
+    "kortnavn": "Kjøkkenhjelpemiddel"
+  },
+  {
+    "isokode": "15030602",
+    "isotittel": "Kjøkkenkniver allround",
+    "kortnavn": "Kjøkkenhjelpemiddel"
+  },
+  {
+    "isokode": "15030603",
+    "isotittel": "Hjelpemidler for skjæring,  hakking og oppdeling av matvarer",
+    "kortnavn": "Kjøkkenhjelpemiddel"
+  },
+  {
+    "isokode": "12311201",
+    "isotittel": "Taustige og sengebånd",
+    "kortnavn": "Taustige"
+  },
+  {
+    "isokode": "24240301",
+    "isotittel": "Plasseringssystemer,  fast posisjon",
+    "kortnavn": "Plasseringssystem"
+  },
+  {
+    "isokode": "18301505",
+    "isotittel": "Terskeleliminatorer",
+    "kortnavn": "Terskeleliminator"
+  },
+  {
+    "isokode": "9061801",
+    "isotittel": "Ben- og knebeskyttere",
+    "kortnavn": "Benbeskytter"
+  },
+  {
+    "isokode": "18122401",
+    "isotittel": "Regulerbare rygger til senger,  universelle",
+    "kortnavn": "Sengerygg"
+  },
+  {
+    "isokode": "9122701",
+    "isotittel": "Toalettpapirtenger",
+    "kortnavn": "Toalettpapirtang"
+  },
+  {
+    "isokode": "4481801",
+    "isotittel": "Vektmansjetter",
+    "kortnavn": "Vektmansjett"
+  },
+  {
+    "isokode": "15031801",
+    "isotittel": "Hjelpemidler til koking og steking",
+    "kortnavn": "Kjøkkenhjelpemiddel"
+  },
+  {
+    "isokode": "18030901",
+    "isotittel": "Tegnebord",
+    "kortnavn": "Tegnebord"
+  },
+  {
+    "isokode": "22210301",
+    "isotittel": "Bokstav- og symbolsett",
+    "kortnavn": "Bokstav-/symbolhjelpemiddel"
+  },
+  {
+    "isokode": "22391201",
+    "isotittel": "Program for PC",
+    "kortnavn": "PC-program"
+  },
+  {
+    "isokode": "22122101",
+    "isotittel": "Bærbart noteringsutstyr til punktskrift",
+    "kortnavn": "Noteringsutstyr punktskrift"
+  },
+  {
+    "isokode": "22390502",
+    "isotittel": "Leselister",
+    "kortnavn": "Leselist"
+  },
+  {
+    "isokode": "24182701",
+    "isotittel": "Underarmsstøtter formet til bruk ved manuelle aktiviteter",
+    "kortnavn": "Underarmsstøtte"
+  },
+  {
+    "isokode": "18120401",
+    "isotittel": "Senger uten reguleringsmuligheter",
+    "kortnavn": "Seng"
+  },
+  {
+    "isokode": "9030502",
+    "isotittel": "Regntøy",
+    "kortnavn": "Regntøy"
+  },
+  {
+    "isokode": "12270401",
+    "isotittel": "Transportrullestoler",
+    "kortnavn": "Transportstol"
+  },
+  {
+    "isokode": "18121001",
+    "isotittel": "Senger med elektrisk regulering av liggeflaten",
+    "kortnavn": "Seng"
+  },
+  {
+    "isokode": "12361202",
+    "isotittel": "Stasjonære personløftere festet i vegger,  gulv og/eller tak ",
+    "kortnavn": "Personløfter"
+  },
+  {
+    "isokode": "9540601",
+    "isotittel": "Ereksjonshjelpemidler",
+    "kortnavn": "Seksualhjelpemiddel"
+  },
+  {
+    "isokode": "12061201",
+    "isotittel": "Gåbord med støttebord",
+    "kortnavn": "Gåbord"
+  },
+  {
+    "isokode": "18060603",
+    "isotittel": "Håndlamper",
+    "kortnavn": "Belysning"
+  },
+  {
+    "isokode": "22180301",
+    "isotittel": "Utstyr for opptak og avspilling av lyd",
+    "kortnavn": "Diktafon"
+  },
+  {
+    "isokode": "22271201",
+    "isotittel": "Klokker og tidsmålere",
+    "kortnavn": "Tidsur"
+  },
+  {
+    "isokode": "15151901",
+    "isotittel": "Hjelpemidler for håndsøm",
+    "kortnavn": "Håndarbeidshjelpemiddel"
+  },
+  {
+    "isokode": "22272701",
+    "isotittel": "Matriell og verktøy for merking",
+    "kortnavn": "Merkehjelpemiddel"
+  },
+  {
+    "isokode": "22120901",
+    "isotittel": "Signaturrammer,  signaturstempler og skriverammer",
+    "kortnavn": "Signaturhjelpemiddel"
+  },
+  {
+    "isokode": "22121501",
+    "isotittel": "Skrivemaskiner",
+    "kortnavn": "Skrivemaskin"
+  },
+  {
+    "isokode": "12390901",
+    "isotittel": "Akustiske lydsignalsendere",
+    "kortnavn": "Lydsignalsender"
+  },
+  {
+    "isokode": "24091803",
+    "isotittel": "Bryterbokser",
+    "kortnavn": "Bryter"
+  },
+  {
+    "isokode": "18121806",
+    "isotittel": "Madrasser vannbaserte",
+    "kortnavn": "Madrass"
+  },
+  {
+    "isokode": "24091802",
+    "isotittel": "Brytere",
+    "kortnavn": "Bryter"
+  },
+  {
+    "isokode": "9033901",
+    "isotittel": "Smekker og forklær",
+    "kortnavn": "Forkle"
+  },
+  {
+    "isokode": "22900001",
+    "isotittel": "Programvare til flere formål",
+    "kortnavn": "Programvare"
+  },
+  {
+    "isokode": "12170901",
+    "isotittel": "Diverse motoriserte kjøretøy med 4 hjul ",
+    "kortnavn": "Kjøretøy"
+  },
+  {
+    "isokode": "22330601",
+    "isotittel": "Bærbare datamaskiner",
+    "kortnavn": "Bærbar PC"
+  },
+  {
+    "isokode": "9030501",
+    "isotittel": "Kjøreposer",
+    "kortnavn": "Kjørepose"
+  },
+  {
+    "isokode": "18180601",
+    "isotittel": "Støttehåndtak fastmonterte",
+    "kortnavn": "Støttehåndtak"
+  },
+  {
+    "isokode": "9120601",
+    "isotittel": "Toaletter",
+    "kortnavn": "Toalett"
+  },
+  {
+    "isokode": "18240302",
+    "isotittel": "Blandebatterier servant",
+    "kortnavn": "Blandebatteri"
+  },
+  {
+    "isokode": "9390301",
+    "isotittel": "Hårvasker og hårvaskestativer",
+    "kortnavn": "Hårvasker"
+  },
+  {
+    "isokode": "4242701",
+    "isotittel": "Personvekter",
+    "kortnavn": "Personvekt"
+  },
+  {
+    "isokode": "12310303",
+    "isotittel": "Skli- og vendehjelpemidler,  polstret",
+    "kortnavn": "Skli-/vendehjelpemiddel"
+  },
+  {
+    "isokode": "9331201",
+    "isotittel": "Stellebord frittstående",
+    "kortnavn": "Stellebord"
+  },
+  {
+    "isokode": "22391202",
+    "isotittel": "Program for mobiltelefoner",
+    "kortnavn": "Telefoni"
+  },
+  {
+    "isokode": "22272401",
+    "isotittel": "Overvåkingssystemer",
+    "kortnavn": "Overvåkingssystem"
+  },
+  {
+    "isokode": "18060601",
+    "isotittel": "Lese- og arbeidsbelysning",
+    "kortnavn": "Belysning"
+  },
+  {
+    "isokode": "12360301",
+    "isotittel": "Mobile personløftere med løftefunksjon",
+    "kortnavn": "Personløfter"
+  },
+  {
+    "isokode": "22031803",
+    "isotittel": "Lese-TV med skjerm,  bærbare",
+    "kortnavn": "Lese-TV"
+  },
+  {
+    "isokode": "22031801",
+    "isotittel": "Lese-TV med skjerm,  stasjonære",
+    "kortnavn": "Lese-TV"
+  },
+  {
+    "isokode": "22390601",
+    "isotittel": "Skrivere",
+    "kortnavn": "Skriver"
+  },
+  {
+    "isokode": "22302101",
+    "isotittel": "Lesemaskiner",
+    "kortnavn": "Lesemaskin"
+  },
+  {
+    "isokode": "22330901",
+    "isotittel": "Offentlige informasjons- og transaksjonsterminaler",
+    "kortnavn": "Informasjonsutstyr"
+  },
+  {
+    "isokode": "22271801",
+    "isotittel": "Trygghetsalarmer",
+    "kortnavn": "Trygghetsalarm"
+  },
+  {
+    "isokode": "12181201",
+    "isotittel": "Hjulsparker",
+    "kortnavn": "Hjulspark"
+  },
+  {
+    "isokode": "12181202",
+    "isotittel": "Sparkesykler",
+    "kortnavn": "Sparkesykkel"
+  },
+  {
+    "isokode": "30093602",
+    "isotittel": "Hjelpemidler for langrenn",
+    "kortnavn": "Langrennshjelpemiddel"
+  },
+  {
+    "isokode": "4482702",
+    "isotittel": "Behandlingsbenker",
+    "kortnavn": "Behandlingsbenk"
+  },
+  {
+    "isokode": "12271002",
+    "isotittel": "Pulker,  skikjelker",
+    "kortnavn": "Pulk/kjelke"
+  },
+  {
+    "isokode": "18121801",
+    "isotittel": "Madrasser skumbaserte",
+    "kortnavn": "Madrass"
+  },
+  {
+    "isokode": "28030301",
+    "isotittel": "Bord til arbeidsplassen",
+    "kortnavn": "Bord"
+  },
+  {
+    "isokode": "18330301",
+    "isotittel": "Matter,  sklihindrende",
+    "kortnavn": "Sklistopp"
+  },
+  {
+    "isokode": "4190401",
+    "isotittel": "Dosetter",
+    "kortnavn": "Dosett"
+  },
+  {
+    "isokode": "9541201",
+    "isotittel": "Hjelpemidler for seksuell opplæring og rehabilitering",
+    "kortnavn": "Seksualhjelpemiddel"
+  },
+  {
+    "isokode": "22391204",
+    "isotittel": "Program for lesing og skriving",
+    "kortnavn": "Programvare"
+  },
+  {
+    "isokode": "4240901",
+    "isotittel": "Blodtrykksmålere",
+    "kortnavn": "Blodtrykksmåler"
+  },
+  {
+    "isokode": "4300601",
+    "isotittel": "Hjelpemidler for kuldebehandling",
+    "kortnavn": "Kuldehjelpemiddel"
+  },
+  {
+    "isokode": "9031201",
+    "isotittel": "Hansker,  vanter og votter",
+    "kortnavn": "Hansker"
+  },
+  {
+    "isokode": "9034501",
+    "isotittel": "Sklihindrende matriale for sko og støvler",
+    "kortnavn": "Sklistopp"
+  },
+  {
+    "isokode": "9090601",
+    "isotittel": "Skohorn og støvelknekter",
+    "kortnavn": "Skohorn"
+  },
+  {
+    "isokode": "30093603",
+    "isotittel": "Hjelpemidler for alpint",
+    "kortnavn": "Alpinthjelpemiddel"
+  },
+  {
+    "isokode": "30030901",
+    "isotittel": "Manuelle spill",
+    "kortnavn": "Spill"
+  },
+  {
+    "isokode": "9330402",
+    "isotittel": "Badekarbrett",
+    "kortnavn": "Badekarbrett"
+  },
+  {
+    "isokode": "18091502",
+    "isotittel": "Løftestoler med individuell regulering av rygg,  benstøtter og oppreisning",
+    "kortnavn": "Løftestol"
+  },
+  {
+    "isokode": "12390301",
+    "isotittel": "Stokker for mobility og markering",
+    "kortnavn": "Stokk"
+  },
+  {
+    "isokode": "9061501",
+    "isotittel": "Håndbeskyttere",
+    "kortnavn": "Håndbeskytter"
+  },
+  {
+    "isokode": "9123601",
+    "isotittel": "Bidétilsatser",
+    "kortnavn": "Bidétilsats"
+  },
+  {
+    "isokode": "22361201",
+    "isotittel": "Alternative innmatingsenheter",
+    "kortnavn": "Innmatingsutstyr"
+  },
+  {
+    "isokode": "22271501",
+    "isotittel": "Elektroniske kalender- og minnesystemer",
+    "kortnavn": "Kalender-/minnesystem"
+  },
+  {
+    "isokode": "22360301",
+    "isotittel": "Tastaturer",
+    "kortnavn": "Tastatur"
+  },
+  {
+    "isokode": "18121808",
+    "isotittel": "Overmadrasser dynamiske",
+    "kortnavn": "Madrass"
+  },
+  {
+    "isokode": "22031804",
+    "isotittel": "Lese-TV uten skjerm,  bærbare",
+    "kortnavn": "Lese-TV"
+  },
+  {
+    "isokode": "9270401",
+    "isotittel": "Urinoppsamlingsposer med lukket ende,  ikke kroppsbårne",
+    "kortnavn": "Urinpose"
+  },
+  {
+    "isokode": "9070303",
+    "isotittel": "Seler til bruk i flysete",
+    "kortnavn": "Sele"
+  },
+  {
+    "isokode": "9270501",
+    "isotittel": "Urinoppsamlingsposer med ende for tømming,  ikke kroppsbårne",
+    "kortnavn": "Urinpose"
+  },
+  {
+    "isokode": "4481503",
+    "isotittel": "Arm,- kropps- og bentreningsutstyr manuelle",
+    "kortnavn": "Treningsutstyr"
+  },
+  {
+    "isokode": "12180604",
+    "isotittel": "Trehjulsykler med pedalbrems",
+    "kortnavn": "Trehjulsykkel"
+  },
+  {
+    "isokode": "12180401",
+    "isotittel": "Fotdrevne tohjulssykler",
+    "kortnavn": "Tohjulsykkel"
+  },
+  {
+    "isokode": "12181501",
+    "isotittel": "Tandemsykler",
+    "kortnavn": "Tandemsykkel"
+  },
+  {
+    "isokode": "12180608",
+    "isotittel": "Trehjulsykler med frinav",
+    "kortnavn": "Trehjulsykkel"
+  },
+  {
+    "isokode": "18121807",
+    "isotittel": "Overmadrasser skumbaserte",
+    "kortnavn": "Madrass"
+  },
+  {
+    "isokode": "18093902",
+    "isotittel": "Understell til sittemoduler",
+    "kortnavn": "Understell sittemodul"
+  },
+  {
+    "isokode": "9331203",
+    "isotittel": "Dusjvogner",
+    "kortnavn": "Dusjvogn"
+  },
+  {
+    "isokode": "12360401",
+    "isotittel": "Mobile personløftere med ståfunksjon",
+    "kortnavn": "Personløfter"
+  },
+  {
+    "isokode": "9332101",
+    "isotittel": "Badekar",
+    "kortnavn": "Badekar"
+  },
+  {
+    "isokode": "12361501",
+    "isotittel": "Badekarmonterte personløftere",
+    "kortnavn": "Personløfter"
+  },
+  {
+    "isokode": "12230603",
+    "isotittel": "Elektriske rullestoler motorisert styring innebruk",
+    "kortnavn": "Elektrisk rullestol"
+  },
+  {
+    "isokode": "18121502",
+    "isotittel": "Hodeputer",
+    "kortnavn": "Hodepute"
+  },
+  {
+    "isokode": "12121201",
+    "isotittel": "Bilseter for barn",
+    "kortnavn": "Bilsete"
+  },
+  {
+    "isokode": "12220304",
+    "isotittel": "Manuelle rullestoler med ståfunksjon",
+    "kortnavn": "Manuell rullestol"
+  },
+  {
+    "isokode": "18093901",
+    "isotittel": "Sittemoduler",
+    "kortnavn": "Sittemodul"
+  },
+  {
+    "isokode": "15032101",
+    "isotittel": "Komfyrer og ovner",
+    "kortnavn": "Komfyr"
+  },
+  {
+    "isokode": "22243002",
+    "isotittel": "Porttelefoner med bilde",
+    "kortnavn": "Porttelefon"
+  },
+  {
+    "isokode": "22330602",
+    "isotittel": "Håndholdte datamaskiner (PDA)",
+    "kortnavn": "Håndholdt datamaskin"
+  },
+  {
+    "isokode": "30091501",
+    "isotittel": "Hjelpemidler for hestesport",
+    "kortnavn": "Hestesportsutstyr"
+  },
+  {
+    "isokode": "22361501",
+    "isotittel": "Tilleggsutstyr til innmatingsenheter",
+    "kortnavn": "Innmatingsutstyr"
+  },
+  {
+    "isokode": "12060602",
+    "isotittel": "Rollatorer,  4 hjul innendørsbruk",
+    "kortnavn": "Rullator"
+  },
+  {
+    "isokode": "12220305",
+    "isotittel": "Manuelle rullestoler til sport og fritid",
+    "kortnavn": "Manuell rullestol"
+  },
+  {
+    "isokode": "9120302",
+    "isotittel": "Flyttbare toalettstoler",
+    "kortnavn": "Toalettstol"
+  },
+  {
+    "isokode": "12362101",
+    "isotittel": "Seil til personløftere",
+    "kortnavn": "Seil"
+  },
+  {
+    "isokode": "12030301",
+    "isotittel": "Stokker",
+    "kortnavn": "Stokk"
+  },
+  {
+    "isokode": "12060301",
+    "isotittel": "Gåstativ",
+    "kortnavn": "Gåstativ"
+  },
+  {
+    "isokode": "12220302",
+    "isotittel": "Manuelle rullestoler allround",
+    "kortnavn": "Manuell rullestol"
+  },
+  {
+    "isokode": "18150603",
+    "isotittel": "Høyderegulering for benker og overskap",
+    "kortnavn": "Høyderegulering"
+  },
+  {
+    "isokode": "12220303",
+    "isotittel": "Manuelle rullestoler komfort",
+    "kortnavn": "Manuell rullestol"
+  },
+  {
+    "isokode": "9330601",
+    "isotittel": "Sklihindrende underlag",
+    "kortnavn": "Sklistopp"
+  },
+  {
+    "isokode": "9330703",
+    "isotittel": "Dusjstoler",
+    "kortnavn": "Dusjstol"
+  },
+  {
+    "isokode": "24060601",
+    "isotittel": "Tubeklemmere",
+    "kortnavn": "Tubeklemme"
+  },
+  {
+    "isokode": "12030601",
+    "isotittel": "Albuekrykker",
+    "kortnavn": "Krykker"
+  },
+  {
+    "isokode": "9330901",
+    "isotittel": "Dusjkabinett",
+    "kortnavn": "Dusjkabinett"
+  },
+  {
+    "isokode": "24180301",
+    "isotittel": "Gripehjelpemidler",
+    "kortnavn": "Gripehjelpemiddel"
+  },
+  {
+    "isokode": "30093301",
+    "isotittel": "Hjelpemidler for vannsport",
+    "kortnavn": "Vannsportshjelpemiddel"
+  },
+  {
+    "isokode": "18360901",
+    "isotittel": "Nattbord",
+    "kortnavn": "Nattbord"
+  },
+  {
+    "isokode": "9122101",
+    "isotittel": "Toalettløftere",
+    "kortnavn": "Toalettløfter"
+  },
+  {
+    "isokode": "27031501",
+    "isotittel": "Lysavskjerming",
+    "kortnavn": "Lysavskjerming"
+  },
+  {
+    "isokode": "18211201",
+    "isotittel": "Åpnere og lukkerer til persienner og markiser",
+    "kortnavn": "Lysavskjerming"
+  },
+  {
+    "isokode": "12243601",
+    "isotittel": "Sykkelfronter",
+    "kortnavn": "Sykkelfront"
+  },
+  {
+    "isokode": "12182102",
+    "isotittel": "Hjelpemotorer til tohjulssykler",
+    "kortnavn": "Hjelpemotor sykkel"
+  },
+  {
+    "isokode": "12180602",
+    "isotittel": "Trehjulsykler med fotpedaler og to forhjul",
+    "kortnavn": "Trehjulsykkel"
+  },
+  {
+    "isokode": "9330501",
+    "isotittel": "Badekarseter",
+    "kortnavn": "Badekarsete"
+  },
+  {
+    "isokode": "18181002",
+    "isotittel": "Støttehåndtak flyttbare",
+    "kortnavn": "Støttehåndtak"
+  },
+  {
+    "isokode": "12061202",
+    "isotittel": "Gåbord med underarmstøtte",
+    "kortnavn": "Gåbord"
+  },
+  {
+    "isokode": "12060603",
+    "isotittel": "Rollatorer,  4 hjul utebruk",
+    "kortnavn": "Rullator"
+  },
+  {
+    "isokode": "9122501",
+    "isotittel": "Armlener til toalett - ikke toalettmonterte",
+    "kortnavn": "Armlene"
+  },
+  {
+    "isokode": "18150604",
+    "isotittel": "Høyderegulering for garderober og hyller",
+    "kortnavn": "Høyderegulering"
+  },
+  {
+    "isokode": "5030301",
+    "isotittel": "Treningshjelpemidler for tale og stemme",
+    "kortnavn": "Treningshjelpemiddel"
+  },
+  {
+    "isokode": "12310601",
+    "isotittel": "Dreieskiver",
+    "kortnavn": "Dreieskive"
+  },
+  {
+    "isokode": "12031201",
+    "isotittel": "Axillarkrykker",
+    "kortnavn": "Krykker"
+  },
+  {
+    "isokode": "9121501",
+    "isotittel": "Løse toalettforhøyere",
+    "kortnavn": "Toalettforhøyer"
+  },
+  {
+    "isokode": "18031501",
+    "isotittel": "Sengebord",
+    "kortnavn": "Sengebord"
+  },
+  {
+    "isokode": "9033001",
+    "isotittel": "Nattøy",
+    "kortnavn": "Nattæy"
+  },
+  {
+    "isokode": "12180901",
+    "isotittel": "Hånddrevne trehjulsykler",
+    "kortnavn": "Trehjulsykkel"
+  },
+  {
+    "isokode": "22030601",
+    "isotittel": "Briller",
+    "kortnavn": "Brille"
+  },
+  {
+    "isokode": "12360601",
+    "isotittel": "Mobil personløfter med fast sete",
+    "kortnavn": "Personløfter"
+  },
+  {
+    "isokode": "24060301",
+    "isotittel": "Emballasjeåpnere",
+    "kortnavn": "Emballasjeåpner"
+  },
+  {
+    "isokode": "22271802",
+    "isotittel": "Anfallsalarmer",
+    "kortnavn": "Anfallsalarm"
+  },
+  {
+    "isokode": "18101501",
+    "isotittel": "Fotskamler,  fothvilere og benstøtter",
+    "kortnavn": "Fothviler"
+  },
+  {
+    "isokode": "9062401",
+    "isotittel": "Kroppsbeskyttelse for hele eller deler av kroppen",
+    "kortnavn": "Kroppsbeskyttelse"
+  },
+  {
+    "isokode": "22240601",
+    "isotittel": "Mobiltelefoner",
+    "kortnavn": "Telefoni"
+  },
+  {
+    "isokode": "18241502",
+    "isotittel": "Gulvmatter for avlastning og vibrasjonsdemping",
+    "kortnavn": "Gulvmatte"
+  },
+  {
+    "isokode": "12031601",
+    "isotittel": "Stokker med flere støtteben",
+    "kortnavn": "Stokk"
+  },
+  {
+    "isokode": "12031801",
+    "isotittel": "Stokker med sete",
+    "kortnavn": "Stokk"
+  },
+  {
+    "isokode": "22362101",
+    "isotittel": "Datamus",
+    "kortnavn": "Datamus"
+  },
+  {
+    "isokode": "27060301",
+    "isotittel": "Lengdemålere",
+    "kortnavn": "Lengdemåler"
+  },
+  {
+    "isokode": "24360301",
+    "isotittel": "Bærehjelpemidler",
+    "kortnavn": "Bærehjelpemiddel"
+  },
+  {
+    "isokode": "18090302",
+    "isotittel": "Arbeidsstoler med manuell seteløfter",
+    "kortnavn": "Arbeidsstol"
+  },
+  {
+    "isokode": "12312101",
+    "isotittel": "Overflytningsplattformer",
+    "kortnavn": "Overflytningsplattform"
+  },
+  {
+    "isokode": "12310301",
+    "isotittel": "Skli- og vendehjelpemidler i fast materiale",
+    "kortnavn": "Skli-/vendehjelpemiddel"
+  },
+  {
+    "isokode": "12311501",
+    "isotittel": "Oppreisningsbelter og oppreisningsvester",
+    "kortnavn": "Oppreisning"
+  },
+  {
+    "isokode": "9091201",
+    "isotittel": "På- og avkledningskroker eller pinner",
+    "kortnavn": "Påkledningshjelpemiddel"
+  },
+  {
+    "isokode": "9032401",
+    "isotittel": "Undertøy",
+    "kortnavn": "Undertøy"
+  },
+  {
+    "isokode": "18100602",
+    "isotittel": "Sitteunderlag",
+    "kortnavn": "Sitteunderlag"
+  },
+  {
+    "isokode": "22270401",
+    "isotittel": "Indikatorer med lyssignaler",
+    "kortnavn": "Varslingshjelpemiddel"
+  },
+  {
+    "isokode": "22270402",
+    "isotittel": "Indikatorer med lydsignaler",
+    "kortnavn": "Varslingshjelpemiddel"
+  },
+  {
+    "isokode": "9304501",
+    "isotittel": "Absorberende sitteunderlag",
+    "kortnavn": "Sitteunderlag"
+  },
+  {
+    "isokode": "12311801",
+    "isotittel": "Bærestoler,  bæreseler og bærekurver",
+    "kortnavn": "Bærehjelpemiddel"
+  },
+  {
+    "isokode": "5062701",
+    "isotittel": "Treningshjelpemidler for kommunikasjon med bilder og tegninger",
+    "kortnavn": "Treningshjelpemiddel"
+  },
+  {
+    "isokode": "9330704",
+    "isotittel": "Bade- og dusjstoler for barn",
+    "kortnavn": "Dusjstol"
+  },
+  {
+    "isokode": "18121804",
+    "isotittel": "Madrasser vendefunksjon",
+    "kortnavn": "Madrass"
+  },
+  {
+    "isokode": "4241201",
+    "isotittel": "Blodsukkermålere",
+    "kortnavn": "Blodsukkermåler"
+  },
+  {
+    "isokode": "24090901",
+    "isotittel": "Vridere og vridbare knapper og håndtak",
+    "kortnavn": "Håndtak"
+  },
+  {
+    "isokode": "15090301",
+    "isotittel": "Hjelpemidler for servering og anretning av mat og drikke",
+    "kortnavn": "Kjøkkenhjelpemiddel"
+  },
+  {
+    "isokode": "15031501",
+    "isotittel": "Kjøkkenmaskiner",
+    "kortnavn": "Kjøkkenhjelpemiddel"
+  },
+  {
+    "isokode": "9091801",
+    "isotittel": "Knappekneppere",
+    "kortnavn": "Knappeknepper"
+  },
+  {
+    "isokode": "12182101",
+    "isotittel": "Tilleggsutstyr til sykler",
+    "kortnavn": "Sykkelutstyr"
+  },
+  {
+    "isokode": "12230601",
+    "isotittel": "Elektriske rullestoler motorisert styring utebruk",
+    "kortnavn": "Elektrisk rullestol"
+  },
+  {
+    "isokode": "9390601",
+    "isotittel": "Kammer og hårbørster",
+    "kortnavn": "Toalettartikler"
+  },
+  {
+    "isokode": "9360901",
+    "isotittel": "Neglesakser og -klippere",
+    "kortnavn": "Toalettartikler"
+  },
+  {
+    "isokode": "9360301",
+    "isotittel": "Neglebørster",
+    "kortnavn": "Toalettartikler"
+  },
+  {
+    "isokode": "9360601",
+    "isotittel": "Neglefiler",
+    "kortnavn": "Toalettartikler"
+  },
+  {
+    "isokode": "12362102",
+    "isotittel": "Seler til personløftere",
+    "kortnavn": "Sele"
+  },
+  {
+    "isokode": "22301501",
+    "isotittel": "Bokstøtter og bokholdere",
+    "kortnavn": "Bokstøtte"
+  },
+  {
+    "isokode": "12270702",
+    "isotittel": "Liggevogner",
+    "kortnavn": "Liggevogn"
+  },
+  {
+    "isokode": "18121803",
+    "isotittel": "Madrasser statiske",
+    "kortnavn": "Madrass"
+  },
+  {
+    "isokode": "12060901",
+    "isotittel": "Gåstoler",
+    "kortnavn": "Gåstol"
+  },
+  {
+    "isokode": "22242701",
+    "isotittel": "Samtaleanlegg (lukket system)",
+    "kortnavn": "Samtaleanlegg"
+  },
+  {
+    "isokode": "18121003",
+    "isotittel": "Senger med ståfunksjon",
+    "kortnavn": "Seng"
+  },
+  {
+    "isokode": "22183301",
+    "isotittel": "Mikrofoner",
+    "kortnavn": "Mikrofon"
+  },
+  {
+    "isokode": "5090301",
+    "isotittel": "Inkontinensalarmer",
+    "kortnavn": "Inkontinensalarm"
+  },
+  {
+    "isokode": "9540301",
+    "isotittel": "Modeller",
+    "kortnavn": "Modell"
+  },
+  {
+    "isokode": "22182402",
+    "isotittel": "FM mottakere",
+    "kortnavn": "Samtalehjelpemiddel"
+  },
+  {
+    "isokode": "22210901",
+    "isotittel": "Samtalehjelpemidler med dynamisk display",
+    "kortnavn": "Samtalehjelpemiddel"
+  },
+  {
+    "isokode": "5120301",
+    "isotittel": "Treningshjelpemidler for hukommelse",
+    "kortnavn": "Treningshjelpemiddel"
+  },
+  {
+    "isokode": "22210601",
+    "isotittel": "Samtaleforsterkere",
+    "kortnavn": "Samtalehjelpemiddel"
+  },
+  {
+    "isokode": "22183001",
+    "isotittel": "Teleslyngeforsterkere",
+    "kortnavn": "Lyttehjelpemiddel"
+  },
+  {
+    "isokode": "22090601",
+    "isotittel": "Stemmeforsterkere",
+    "kortnavn": "Talehjelpemiddel"
+  },
+  {
+    "isokode": "22182403",
+    "isotittel": "FM sendere",
+    "kortnavn": "Samtalehjelpemiddel"
+  },
+  {
+    "isokode": "9420301",
+    "isotittel": "Tannbørster,  manuelle",
+    "kortnavn": "Tannbørste"
+  },
+  {
+    "isokode": "12180902",
+    "isotittel": "Hånddrevne trehjulssykler med hjelpemotor",
+    "kortnavn": "Trehjulsykkel"
+  },
+  {
+    "isokode": "4241202",
+    "isotittel": "Pulsoksymeter",
+    "kortnavn": "Pulsoksymeter"
+  },
+  {
+    "isokode": "4481504",
+    "isotittel": "Arm,- kropps- og bentreningsutstyr motoriserte",
+    "kortnavn": "Treningshjelpemiddel"
+  },
+  {
+    "isokode": "12230303",
+    "isotittel": "Elektriske rullestoler manuell styring begrenset utebruk",
+    "kortnavn": "Elektrisk rullestol"
+  },
+  {
+    "isokode": "12310304",
+    "isotittel": "Skli- og vendehjelpemidler,  motoriserte",
+    "kortnavn": "Skli-/vendehjelpemiddel"
+  },
+  {
+    "isokode": "22361801",
+    "isotittel": "Programvare for innmating",
+    "kortnavn": "Programvare"
+  },
+  {
+    "isokode": "12240902",
+    "isotittel": "Drivhjul og drivaggregat med manuell styring",
+    "kortnavn": "Drivhjul/-aggregat"
+  },
+  {
+    "isokode": "12312401",
+    "isotittel": "Løfteseter og løftemadrasser",
+    "kortnavn": "Løftehjelpemiddel"
+  },
+  {
+    "isokode": "22183601",
+    "isotittel": "Høyttalere",
+    "kortnavn": "Lyttehjelpemiddel"
+  },
+  {
+    "isokode": "5120901",
+    "isotittel": "Treningshjelpemidler for oppmerksomhet",
+    "kortnavn": "Treningshjelpemiddel"
+  },
+  {
+    "isokode": "30090007",
+    "isotittel": "Mosjonshjelpemidler for armer og ben",
+    "kortnavn": "Mosjonshjelpemiddel"
+  },
+  {
+    "isokode": "30090901",
+    "isotittel": "Kajakker og kanoer",
+    "kortnavn": "Kajakk/kano"
+  },
+  {
+    "isokode": "12170301",
+    "isotittel": "Trappeklatrere",
+    "kortnavn": "Trappeklatrer"
+  },
+  {
+    "isokode": "4242101",
+    "isotittel": "Hjelpemidler for å måle kroppens fysiske og fysiologiske tilstand",
+    "kortnavn": "Målehjelpemiddel"
+  },
+  {
+    "isokode": "4060601",
+    "isotittel": "Kompresjons- og støttestrømper til armer,  ben og andre kroppsdeler",
+    "kortnavn": "Kompresjons-/støttestrømper"
+  },
+  {
+    "isokode": "18330302",
+    "isotittel": "Gulvbelegg,  sklihindrende",
+    "kortnavn": "Sklistopp"
+  },
+  {
+    "isokode": "4060901",
+    "isotittel": "Kompresjonsutstyr",
+    "kortnavn": "Kompresjonsutstyr"
+  },
+  {
+    "isokode": "22330301",
+    "isotittel": "Stasjonære datamaskiner",
+    "kortnavn": "Stasjonær PC"
+  },
+  {
+    "isokode": "12243401",
+    "isotittel": "Rullestolgarasjer og kapell",
+    "kortnavn": "Rullestolgarasje"
+  },
+  {
+    "isokode": "24093001",
+    "isotittel": "Tidsur",
+    "kortnavn": "Tidsur"
+  },
+  {
+    "isokode": "18301502",
+    "isotittel": "Foldbare kjøreskinner og kjøreramper",
+    "kortnavn": "Rampe"
+  },
+  {
+    "isokode": "9331501",
+    "isotittel": "Vasker",
+    "kortnavn": "Vask"
+  },
+  {
+    "isokode": "4242401",
+    "isotittel": "Kroppstermometere",
+    "kortnavn": "Kroppstermometer"
+  },
+  {
+    "isokode": "9070301",
+    "isotittel": "Utstyr for å holde en person på plass i rullestolen",
+    "kortnavn": "Sikring i rullestol"
+  },
+  {
+    "isokode": "24091201",
+    "isotittel": "Pedaler (manuelle)",
+    "kortnavn": "Pedaler"
+  },
+  {
+    "isokode": "18331001",
+    "isotittel": "Komfyr- og elvakter",
+    "kortnavn": "Komfyr-/elvakt"
+  },
+  {
+    "isokode": "22272101",
+    "isotittel": "Brann- og røykvarslere",
+    "kortnavn": "Varslingshjelpemiddel"
+  },
+  {
+    "isokode": "18100302",
+    "isotittel": "Løse ryggstøtter",
+    "kortnavn": "Ryggstøtte"
+  },
+  {
+    "isokode": "12030901",
+    "isotittel": "Underarmkrykker",
+    "kortnavn": "Krykker"
+  },
+  {
+    "isokode": "27030601",
+    "isotittel": "Luftrensere",
+    "kortnavn": "Luftrenser"
+  },
+  {
+    "isokode": "4480303",
+    "isotittel": "Treningssykler til stol og seng",
+    "kortnavn": "Treningssykkel"
+  },
+  {
+    "isokode": "18060301",
+    "isotittel": "Innebelysning",
+    "kortnavn": "Belysning"
+  },
+  {
+    "isokode": "22362102",
+    "isotittel": "Joysticks til datamaskiner",
+    "kortnavn": "Joystick"
+  },
+  {
+    "isokode": "9182401",
+    "isotittel": "Hjelpemidler til skylling av tarm via rektum ",
+    "kortnavn": "Skyllehjelpemiddel"
+  },
+  {
+    "isokode": "30093601",
+    "isotittel": "Hjelpemidler for skøytesport",
+    "kortnavn": "Skøytehjelpemiddel"
+  },
+  {
+    "isokode": "12122103",
+    "isotittel": "Rullestolramper i bil",
+    "kortnavn": "Rampe"
+  },
+  {
+    "isokode": "4190402",
+    "isotittel": "Medisinmålere",
+    "kortnavn": "Medisinmåler"
+  },
+  {
+    "isokode": "24130302",
+    "isotittel": "Fjernstyringssystemer - sendere",
+    "kortnavn": "Fjernstyringssystem"
+  },
+  {
+    "isokode": "18121501",
+    "isotittel": "Dyner og tepper",
+    "kortnavn": "Dyne"
+  },
+  {
+    "isokode": "9070302",
+    "isotittel": "Seler til bruk i stol og andre sittemøbler",
+    "kortnavn": "Sele"
+  },
+  {
+    "isokode": "9304202",
+    "isotittel": "Absorberende liggeunderlag ikke vaskbare",
+    "kortnavn": "Liggeunderlag"
+  },
+  {
+    "isokode": "22030603",
+    "isotittel": "Elektroniske briller",
+    "kortnavn": "Elektronisk brille"
+  },
+  {
+    "isokode": "9333601",
+    "isotittel": "Hjelpemidler for å tørke seg",
+    "kortnavn": "Tørkehjelpemiddel"
+  },
+  {
+    "isokode": "9032101",
+    "isotittel": "Drakter, kjoler og skjørt",
+    "kortnavn": "Klær"
+  },
+  {
+    "isokode": "22030902",
+    "isotittel": "Lupebriller",
+    "kortnavn": "Lupebrille"
+  },
+  {
+    "isokode": "12241801",
+    "isotittel": "Bremser og parkeringsbremser til rullestoler",
+    "kortnavn": "Rullestolbrems"
+  },
+  {
+    "isokode": "30093604",
+    "isotittel": "Andre hjelpemidler for vintersport",
+    "kortnavn": "Vintersportsutstyr"
+  },
+  {
+    "isokode": "9091501",
+    "isotittel": "Glidelåstrekkere",
+    "kortnavn": "Glidelåstrekker"
+  },
+  {
+    "isokode": "18090301",
+    "isotittel": "Arbeidsstoler med elektrisk seteløfter",
+    "kortnavn": "Arbeidsstol"
+  },
+  {
+    "isokode": "12310901",
+    "isotittel": "Frittstående løftebøyler",
+    "kortnavn": "Løftebøyle"
+  },
+  {
+    "isokode": "6150001",
+    "isotittel": "Funksjonelle nevromuskulære stimulatorer (FNS) og hybride ortoser",
+    "kortnavn": "Nervestimulator/hybrid ortose"
+  },
+  {
+    "isokode": "18240304",
+    "isotittel": "Blandebatterier dusj",
+    "kortnavn": "Blandebatteri"
+  },
+  {
+    "isokode": "30090008",
+    "isotittel": "Kjøretøy på hjul for sport og fritid",
+    "kortnavn": "Kjøretøy"
+  },
+  {
+    "isokode": "4480301",
+    "isotittel": "Ergometersykler",
+    "kortnavn": "Ergometersykkel"
+  },
+  {
+    "isokode": "24130301",
+    "isotittel": "Fjernstyringssystemer-mottakere",
+    "kortnavn": "Fjernstyringssystem"
+  },
+  {
+    "isokode": "12240903",
+    "isotittel": "Drivaggregat med brukerstyrt styring",
+    "kortnavn": "Drivaggregat"
+  },
+  {
+    "isokode": "24360601",
+    "isotittel": "Hjul",
+    "kortnavn": "Hjul"
+  },
+  {
+    "isokode": "12181503",
+    "isotittel": "Tandemsykler med hjelpemotor",
+    "kortnavn": "Tandemsykkel"
+  },
+  {
+    "isokode": "18091501",
+    "isotittel": "Løftestoler med synkron regulering av rygg,  benstøtter og oppreisning",
+    "kortnavn": "Løftestol"
+  },
+  {
+    "isokode": "9121201",
+    "isotittel": "Frittstående toalettforhøyere",
+    "kortnavn": "Toalettforhøyer"
+  },
+  {
+    "isokode": "18090902",
+    "isotittel": "Coxitstol med manuell seteløfter",
+    "kortnavn": "Coxitstol"
+  },
+  {
+    "isokode": "9122401",
+    "isotittel": "Toalettmonterte armlener og støttehåndtak",
+    "kortnavn": "Støttehåndtak"
+  },
+  {
+    "isokode": "12242402",
+    "isotittel": "Batteriladere til rullestoler",
+    "kortnavn": "Batterilader"
+  },
+  {
+    "isokode": "18030602",
+    "isotittel": "Arbeidsbord med manuell høyderegulering",
+    "kortnavn": "Arbeidsbord"
+  },
+  {
+    "isokode": "12362103",
+    "isotittel": "Vester og bukser til personløftere",
+    "kortnavn": "Vest/bukse til personløfter"
+  },
+  {
+    "isokode": "22031202",
+    "isotittel": "Kikkertbriller",
+    "kortnavn": "Kikkertbrille"
+  },
+  {
+    "isokode": "12240901",
+    "isotittel": "Drivhjul og drivaggregat med motorisert styring",
+    "kortnavn": "Drivhjul/-aggregat"
+  },
+  {
+    "isokode": "22391203",
+    "isotittel": "Program for konvertering",
+    "kortnavn": "Programvare"
+  },
+  {
+    "isokode": "12231201",
+    "isotittel": "Elektriske rullestoler ledsagerstyrte",
+    "kortnavn": "Elektrisk rullestol"
+  },
+  {
+    "isokode": "22211201",
+    "isotittel": "Programvare for nærkommunikasjon",
+    "kortnavn": "Programvare"
+  },
+  {
+    "isokode": "18090901",
+    "isotittel": "Coxitstol med elektrisk seteløfter",
+    "kortnavn": "Coxitstol"
+  },
+  {
+    "isokode": "22210902",
+    "isotittel": "Samtalehjelpemidler ett nivå",
+    "kortnavn": "Samtalehjelpemiddel"
+  },
+  {
+    "isokode": "18210301",
+    "isotittel": "Åpnere og lukkere til dører",
+    "kortnavn": "Døråpner"
+  },
+  {
+    "isokode": "18210601",
+    "isotittel": "Åpnere og lukkere til vindu",
+    "kortnavn": "Vindusåpner"
+  },
+  {
+    "isokode": "24130303",
+    "isotittel": "Fjernstyringssystemer - sensorer",
+    "kortnavn": "Fjernstyringssystem"
+  },
+  {
+    "isokode": "22243001",
+    "isotittel": "Porttelefoner med lyd",
+    "kortnavn": "Porttelefon"
+  },
+  {
+    "isokode": "15030301",
+    "isotittel": "Hjelpemidler for veiing og måling",
+    "kortnavn": "Vekt-/målehjelpemiddel"
+  },
+  {
+    "isokode": "18090401",
+    "isotittel": "Taburetter og krakker",
+    "kortnavn": "Krakk"
+  },
+  {
+    "isokode": "12271801",
+    "isotittel": "Liggebenker med hjul,  tråbiler og lekevogner",
+    "kortnavn": "Liggebenk/tråbil/lekevogn"
+  },
+  {
+    "isokode": "15151201",
+    "isotittel": "Strikkepinner, heklenåler, sy- og stoppenåler",
+    "kortnavn": "Håndarbeidshjelpemiddel"
+  },
+  {
+    "isokode": "27062401",
+    "isotittel": "Fargemålere",
+    "kortnavn": "Fargemåler"
+  },
+  {
+    "isokode": "9450901",
+    "isotittel": "Speil",
+    "kortnavn": "Speil"
+  },
+  {
+    "isokode": "18093904",
+    "isotittel": "Sittemoduler formstøpte",
+    "kortnavn": "Sittemodul"
+  },
+  {
+    "isokode": "15122201",
+    "isotittel": "Utstyr for rengjøring av gulv",
+    "kortnavn": "Rengjøringshjelpemiddel"
+  },
+  {
+    "isokode": "22031802",
+    "isotittel": "Lese-TV uten skjerm,  stasjonære",
+    "kortnavn": "Lese-TV"
+  },
+  {
+    "isokode": "22210903",
+    "isotittel": "Samtalehjelpemidler flere nivå",
+    "kortnavn": "Samtalehjelpemiddel"
+  },
+  {
+    "isokode": "22210904",
+    "isotittel": "Samtalehjelpemidler fritekst",
+    "kortnavn": "Samtalehjelpemiddel"
+  },
+  {
+    "isokode": "30090301",
+    "isotittel": "Hjelpemidler for lagspill med ball",
+    "kortnavn": "Utstyr for ballspill"
+  },
+  {
+    "isokode": "18030601",
+    "isotittel": "Arbeidsbord med elektrisk høyderegulering",
+    "kortnavn": "Arbeidsbord"
+  },
+  {
+    "isokode": "18121002",
+    "isotittel": "Sengebunner med elektrisk regulering av liggeflaten",
+    "kortnavn": "Sengebunn"
+  },
+  {
+    "isokode": "18301002",
+    "isotittel": "Trappeheiser med sete",
+    "kortnavn": "Trappeheis"
+  },
+  {
+    "isokode": "9271801",
+    "isotittel": "Urinskjermer",
+    "kortnavn": "Urinskjerm"
+  },
+  {
+    "isokode": "18100603",
+    "isotittel": "Stolinnsatser",
+    "kortnavn": "Stolinnsats"
+  },
+  {
+    "isokode": "12121202",
+    "isotittel": "Bilseter for voksne",
+    "kortnavn": "Bilsete"
+  },
+  {
+    "isokode": "18300301",
+    "isotittel": "Personheiser i sjakt",
+    "kortnavn": "Personheis"
+  },
+  {
+    "isokode": "12390601",
+    "isotittel": "Elektroniske orienteringshjelpemidler",
+    "kortnavn": "Orienteringshjelpemiddel"
+  },
+  {
+    "isokode": "12181504",
+    "isotittel": "Parsykler med hjelpemotor",
+    "kortnavn": "Parsykkel"
+  },
+  {
+    "isokode": "18301805",
+    "isotittel": "Påkjøringsbrett,  rampemodul",
+    "kortnavn": "Rampe"
+  },
+  {
+    "isokode": "22270404",
+    "isotittel": "Indikatorer med mekanisk varsling",
+    "kortnavn": "Varslingshjelpemiddel"
+  },
+  {
+    "isokode": "18102102",
+    "isotittel": "Abduksjonsklosser som ikke er tilbehør til spesielle produkter",
+    "kortnavn": "Abduksjonskloss"
+  },
+  {
+    "isokode": "18210901",
+    "isotittel": "Åpnere og lukkere til gardiner",
+    "kortnavn": "Gardinåpner"
+  },
+  {
+    "isokode": "22182702",
+    "isotittel": "IR mottakere",
+    "kortnavn": "IR-mottaker"
+  },
+  {
+    "isokode": "22182703",
+    "isotittel": "IR sendere",
+    "kortnavn": "IR-sender"
+  },
+  {
+    "isokode": "18301101",
+    "isotittel": "Trappeheiser med plattform",
+    "kortnavn": "Trappeheis"
+  },
+  {
+    "isokode": "18301802",
+    "isotittel": "Rekkverk,  rampemodul",
+    "kortnavn": "Rampe"
+  },
+  {
+    "isokode": "24181201",
+    "isotittel": "PC-stativer",
+    "kortnavn": "PC-stativ"
+  },
+  {
+    "isokode": "24361201",
+    "isotittel": "Traller og trillebord",
+    "kortnavn": "Tralle"
+  },
+  {
+    "isokode": "5150601",
+    "isotittel": "Treningshjelpemidler for å kode/avkode skriftspråk",
+    "kortnavn": "Treningshjelpemiddel"
+  },
+  {
+    "isokode": "5121201",
+    "isotittel": "Treningshjelpemidler for begrepsutvikling",
+    "kortnavn": "Treningshjelpemiddel"
+  },
+  {
+    "isokode": "18300501",
+    "isotittel": "Løfteplattformer uten sjakt",
+    "kortnavn": "Løfteplattform"
+  },
+  {
+    "isokode": "18100901",
+    "isotittel": "Armlener som ikke er tilbehør til spesielle produkter",
+    "kortnavn": "Armlen"
+  },
+  {
+    "isokode": "12241101",
+    "isotittel": "Sykkelfronter",
+    "kortnavn": "Sykkelfront"
+  },
+  {
+    "isokode": "22030903",
+    "isotittel": "Linser og digitale luper",
+    "kortnavn": "Linse/lupe"
+  },
+  {
+    "isokode": "18301503",
+    "isotittel": "Teleskopiske kjøreskinner",
+    "kortnavn": "Kjøreskinner"
+  },
+  {
+    "isokode": "18301504",
+    "isotittel": "Foldbare/teleskopiske kjøreskinner",
+    "kortnavn": "Kjøreskinner"
+  },
+  {
+    "isokode": "18301806",
+    "isotittel": "Trapper,  rampemodul",
+    "kortnavn": "Rampe"
+  },
+  {
+    "isokode": "18302401",
+    "isotittel": "Støttesystem ved trappegang uten sete og plattform",
+    "kortnavn": "Trappehjelpemiddel"
+  },
+  {
+    "isokode": "12230304",
+    "isotittel": "Elektriske rullestoler manuell styring innebruk",
+    "kortnavn": "Elektrisk rullestol"
+  },
+  {
+    "isokode": "18122402",
+    "isotittel": "Regulerbare benstøtter til senger,  universelle",
+    "kortnavn": "Benstøtte"
+  },
+  {
+    "isokode": "18330601",
+    "isotittel": "Sikkerhetsutstyr for vinduer, trapper, heiser og løfteplattformer",
+    "kortnavn": "Sikkerhetsutstyr"
+  },
+  {
+    "isokode": "30098901",
+    "isotittel": "Hjelpemidler for sportsaktiviteter på barmark",
+    "kortnavn": "Barmarkshjelpemidler"
+  },
+  {
+    "isokode": "22242103",
+    "isotittel": "Telefonforsterkere",
+    "kortnavn": "Telefoni"
+  },
+  {
+    "isokode": "24090301",
+    "isotittel": "Trykk-knapper (en-funksjonsbrytere)",
+    "kortnavn": "Trykk-knapp"
+  },
+  {
+    "isokode": "15092701",
+    "isotittel": "Spiseapparater",
+    "kortnavn": "Spiseapparat"
+  },
+  {
+    "isokode": "18301801",
+    "isotittel": "Kjørebaner,  rampemodul",
+    "kortnavn": "Rampe"
+  },
+  {
+    "isokode": "18301804",
+    "isotittel": "Repos,  rampemodul",
+    "kortnavn": "Rampe"
+  },
+  {
+    "isokode": "9420601",
+    "isotittel": "Elektriske tannbørster",
+    "kortnavn": "Tannbørste"
+  },
+  {
+    "isokode": "22210302",
+    "isotittel": "Bokstav- og symboltavler",
+    "kortnavn": "Bokstav-/ symbolhjelpemiddel"
+  }
+]
