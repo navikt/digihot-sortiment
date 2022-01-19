@@ -38,5 +38,10 @@
     "tittel": "Seler, seil og andre kroppsstøtter til personløftere",
     "isokode": "123621",
     "godkjenningskursIds": [2]
+  },
+  {
+    "tittel": "Senger og løse sengebunner/støtteplater for madrass med elektrisk regulering",
+    "isokode": "181210",
+    "godkjenningskursIds": [3]
   }
 ]
