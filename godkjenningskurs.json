@@ -2,5 +2,9 @@
   {
     "isokode": "122303",
     "godkjenningskursIds": [1]
+  },
+  {
+    "isokode": "123603",
+    "godkjenningskursIds": [2]
   }
 ]
