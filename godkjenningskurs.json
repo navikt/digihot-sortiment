@@ -1,41 +1,41 @@
 [
   {
-    "tittel: "Elektriske rullestoler med manuell styring",
+    "tittel": "Elektriske rullestoler med manuell styring",
     "isokode": "122303",
     "godkjenningskursIds": [1]
   },
   {
-    "tittel: "Elektriske rullestoler med motorisert styring",
+    "tittel": "Elektriske rullestoler med motorisert styring",
     "isokode": "122303",
     "godkjenningskursIds": [1]
   },
   {
-    "tittel: "Mobile personløftere med seler og/eller seil til forflytning av en person i sittende stilling",
+    "tittel": "Mobile personløftere med seler og/eller seil til forflytning av en person i sittende stilling",
     "isokode": "123603",
     "godkjenningskursIds": [2]
   },
   {
-    "tittel: "Mobile personløftere for stående forflytning",
+    "tittel": "Mobile personløftere for stående forflytning",
     "isokode": "123604",
     "godkjenningskursIds": [2]
   },
   {
-    "tittel: "Mobile personløftere med fast sete",
+    "tittel": "Mobile personløftere med fast sete",
     "isokode": "123606",
     "godkjenningskursIds": [2]
   },
   {
-    "tittel: "Stasjonære personløftere festet til vegg, gulv eller tak",
+    "tittel": "Stasjonære personløftere festet til vegg, gulv eller tak",
     "isokode": "123612",
     "godkjenningskursIds": [2]
   },
   {
-    "tittel: "Stasjonære personløftere festet til eller montert i eller på andre produkter",
+    "tittel": "Stasjonære personløftere festet til eller montert i eller på andre produkter",
     "isokode": "123615",
     "godkjenningskursIds": [2]
   },
   {
-    "tittel: "Seler, seil og andre kroppsstøtter til personløftere",
+    "tittel": "Seler, seil og andre kroppsstøtter til personløftere",
     "isokode": "123621",
     "godkjenningskursIds": [2]
   }
