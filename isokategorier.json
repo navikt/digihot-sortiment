@@ -532,7 +532,7 @@
   {
     "isokode": "22271201",
     "isotittel": "Klokker og tidsmålere",
-    "kortnavn": "Vekkerklokke"
+    "kortnavn": "Klokke/tidsmåler"
   },
   {
     "isokode": "15151901",
@@ -1117,7 +1117,7 @@
   {
     "isokode": "09033001",
     "isotittel": "Nattøy",
-    "kortnavn": "Nattæy"
+    "kortnavn": "Nattøy"
   },
   {
     "isokode": "12180901",
@@ -1502,7 +1502,7 @@
   {
     "isokode": "24093001",
     "isotittel": "Tidsur",
-    "kortnavn": "Tidsur"
+    "kortnavn": "Elvakt"
   },
   {
     "isokode": "18301502",
@@ -1532,7 +1532,7 @@
   {
     "isokode": "18331001",
     "isotittel": "Komfyr- og elvakter",
-    "kortnavn": "Komfyr-/elvakt"
+    "kortnavn": "Komfyrvakt"
   },
   {
     "isokode": "22272101",
