@@ -31,7 +31,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Validate JSON
-        run: cat bestillingsordning_sortiment.json | json_pp
+        run: for filename in ./*.json; do cat ${filename} | json_pp; done
       - name: Alert Slack in case of failure
         if: failure()
         run: |
