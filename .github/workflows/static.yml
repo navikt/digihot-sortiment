@@ -38,7 +38,7 @@ jobs:
           curl --request POST \
           --url ${{ secrets.SLACK_URL }} \
           --header 'Content-Type: application/json' \
-          --data '{"text": "<!here> Bygg feilet pga ugyldig JSON i bestillingsordning-sortiment.json"}'
+          --data '{"text": "<!here> Bygg feilet pga ugyldig JSON i siste commit"}'
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
