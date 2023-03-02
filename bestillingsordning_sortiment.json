@@ -109,6 +109,6 @@
     {"hmsnr": "256882", "navn": "TVSB Sereonic TX sender"},
     {"hmsnr": "256883", "navn": "TVSB Sereonic RX mottaker"},
     {"hmsnr": "249557", "navn": "Tidtaker Memo Timer tidsintervaller 2/4/6/8 minutter"},
-    {"hmsnr": "249558", "navn": "Tidtaker Memo Timer tidsintervaller 5/10/15/20 minutter"}
+    {"hmsnr": "249558", "navn": "Tidtaker Memo Timer tidsintervaller 5/10/15/20 minutter"},
     {"hmsnr": "249559", "navn": "Tidtaker Memo Timer tidsintervaller 15/30/45/60 minutter"}
 ]
