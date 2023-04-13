@@ -40,6 +40,8 @@
     {"hmsnr": "174594", "navn": "Hjertebrett Comfortabel b75-80 el brukervekt145 motor flyttbar over madrass"},
     {"hmsnr": "174595", "navn": "Hjertebrett Comfortabel b85-90 el brukervekt145 motor flyttbar over madrass"},
     {"hmsnr": "174596", "navn": "Hjertebrett Comfortabel b115-120 el brukervekt145 motor begge sider over madrass"},
+    {"hmsnr": "255799", "navn": "Seng Opus 90DW b90 l200 4delt h36-83 el rygg el ben el 4motor gavl MDF"},
+    {"hmsnr": "174791", "navn": "Madrass Puls NAV b90 l200 h13 skum brukervekt120 trekk bomull/polyester"},
     {"hmsnr": "164203", "navn": "Glidelaken SatinSheet toveis b70 l105 glideflate b70 l105 m/stikklaken b200 l100"},
     {"hmsnr": "255733", "navn": "Glidelaken SatinSheet toveis b200 l140 glideflate b70 l140 u/stikklaken"},
     {"hmsnr": "255734", "navn": "Stikklaken SatinSheet fireveis b200 l140 glideflate b147 l140"},
@@ -75,7 +77,8 @@
     {"hmsnr": "288768", "navn": "Regncape Raincape Plus stor uforet m/ermer/hette"},
     {"hmsnr": "267614", "navn": "Kalender MemoDay2 døgn/dag/klokke/flerspråklig"},
     {"hmsnr": "301386", "navn": "Kalender Iris Sol tid på døgn/dag/dato/klokke digital/analog/talende klokke/påminnelser"},
-    {"hmsnr": "020760", "navn": "Elvakt tidsur CountDown 16A 2polet"}, 
+    {"hmsnr": "020760", "navn": "Elvakt tidsur CountDown 16A 2polet"},
+    {"hmsnr": "289709", "navn": "Komfyrvakt 25 ampere Prefi M EB 25"},
     {"hmsnr": "253473", "navn": "Ringeknappsender Flexiblink"},
     {"hmsnr": "253476", "navn": "Audiodetektor"},
     {"hmsnr": "253465", "navn": "FlexiApp-sender"},
@@ -111,4 +114,4 @@
     {"hmsnr": "249557", "navn": "Tidtaker Memo Timer tidsintervaller 2/4/6/8 minutter"},
     {"hmsnr": "249558", "navn": "Tidtaker Memo Timer tidsintervaller 5/10/15/20 minutter"},
     {"hmsnr": "249559", "navn": "Tidtaker Memo Timer tidsintervaller 15/30/45/60 minutter"}
-]
+    ]
