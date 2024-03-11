@@ -9,14 +9,30 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"strings"
+)
+
+var (
+	URL_DEV  = "https://hm-grunndata-search.intern.dev.nav.no/products/_search"
+	URL_PROD = "https://hm-grunndata-search.intern.nav.no/products/_search"
 )
 
 func main() {
-	if len(os.Args) != 2 {
-		log.Fatalf("%s <input-file>\n", os.Args[0])
+	if len(os.Args) != 3 {
+		log.Fatalf("%s <prod|dev> <input-file>\n", os.Args[0])
 	}
 
-	infilename := os.Args[1]
+	env := strings.ToLower(os.Args[1])
+	if env != "prod" && env != "dev" {
+		log.Fatalf("%s <prod|dev> <input-file>\n", os.Args[0])
+	}
+
+	url := URL_DEV
+	if env == "prod" {
+		url = URL_PROD
+	}
+
+	infilename := os.Args[2]
 	infile, err := ioutil.ReadFile(infilename)
 	if err != nil {
 		log.Fatalln(err)
@@ -32,7 +48,7 @@ func main() {
 		// log.Printf("%s: %#v\n", sortimentKategori, apostids)
 		for _, apostid := range apostids {
 			reqBody := []byte(fmt.Sprintf(`{"query": {"bool": {"must": [{"match": {"agreements.postIdentifier": "HMDB-%d"}}]}}}`, apostid))
-			resp, err := http.Post("https://hm-grunndata-search.intern.dev.nav.no/products/_search", "application/json", bytes.NewBuffer(reqBody))
+			resp, err := http.Post(url, "application/json", bytes.NewBuffer(reqBody))
 			if err != nil {
 				log.Fatalln(err)
 			}
