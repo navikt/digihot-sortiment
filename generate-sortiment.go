@@ -110,6 +110,6 @@ type OSAgreement struct {
 }
 
 type ResultRecord struct {
-	Apostid interface{} `json:"aposid"`
+	Apostid interface{} `json:"apostid"`
 	PostID  interface{} `json:"postId"`
 }
