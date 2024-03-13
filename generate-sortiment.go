@@ -65,7 +65,18 @@ func main() {
 				outdata[sortimentKategori] = []ResultRecord{}
 			}
 			if len(osResp.Hits.Hits) > 0 && len(osResp.Hits.Hits[0].Source.Agreements) > 0 {
-				postID := osResp.Hits.Hits[0].Source.Agreements[0].PostID
+				agreements := osResp.Hits.Hits[0].Source.Agreements
+				postID := ""
+				for _, agreement := range agreements {
+					if agreement.PostIdentifier == fmt.Sprintf("HMDB-%d", apostid) {
+						postID = agreement.PostID
+						break
+					}
+				}
+				if postID == "" {
+					// Not found
+					log.Fatalf("Search result didnt actually contain a postID for the corresponding apostid (%d): %#v\n", apostid, osResp)
+				}
 				outdata[sortimentKategori] = append(outdata[sortimentKategori], ResultRecord{
 					Apostid: apostid,
 					PostID:  postID,
@@ -106,7 +117,8 @@ type OSProduct struct {
 }
 
 type OSAgreement struct {
-	PostID string `json:"postId"`
+	PostID         string `json:"postId"`
+	PostIdentifier string `json:"postIdentifier"`
 }
 
 type ResultRecord struct {
