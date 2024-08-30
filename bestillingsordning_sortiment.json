@@ -1,5 +1,6 @@
 [
-    {"hmsnr": "267914", "navn": "Ispigg krykke albue Classic"},
+    {"hmsnr": "267913", "navn": "Ispigg krykke albue Classic, krone"},
+    {"hmsnr": "267914", "navn": "Ispigg krykke albue Classic, 1 pigg"},
     {"hmsnr": "267912", "navn": "Krykke albue Classic h76-96 hø/ve soft ergohåndtak", "tilbehor": ["267914"]},
     {"hmsnr": "177946", "navn": "Rollator 4hjul Gemino 20 b60 h78-100 sh62 sml hjul massiv", "tilbehor": ["214822"]},
     {"hmsnr": "177947", "navn": "Rollator 4hjul Gemino 20S b55 h65-76 sh48 sml hjul massiv", "tilbehor": ["214822"]},
@@ -42,6 +43,8 @@
     {"hmsnr": "311623", "navn": "Hjertebrett Comfortabel Compact b115-120 el brukervekt145 motor under madrass"},
     {"hmsnr": "291255", "navn": "Seng Opus 90ew b90 l200 4delt h36-83 el rygg el ben 4 motor gavl laminat"},
     {"hmsnr": "311651", "navn": "Madrass, Hypnos I b90 l200 h14 skum brukervekt120 trekk bomull"},
+    {"hmsnr": "311731", "navn": "Madrasstrekk, Hypnos I b90 l200 h14"},
+    {"hmsnr": "255807", "navn": "Løftebøyle søsterhjelp til Opus-senger"},
     {"hmsnr": "164203", "navn": "Glidelaken SatinSheet toveis b70 l105 glideflate b70 l105 m/stikklaken b200 l100"},
     {"hmsnr": "312019", "navn": "Glidelaken sett: SatinSheet 90 4Direction m/håndtak midi glideflate b70 l140 glidelaken b200 l140 stikklaken b200 l140"},
     {"hmsnr": "167015", "navn": "Sklimatte Immedia MultiGlide SG b72 l100"},
