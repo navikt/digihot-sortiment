@@ -92,7 +92,6 @@
     {"hmsnr": "289756", "navn": "Termisk brannvarsler"},
     {"hmsnr": "253467", "navn": "Barnevakt Flexiblink"},
     {"hmsnr": "253472", "navn": "ELLA Smykkesender"},
-    {"hmsnr": "253482", "navn": "Digital timer med sender"},
     {"hmsnr": "253474", "navn": "Mottaker IRIS touchdisplay", "tilbehor": ["195457"]},
     {"hmsnr": "253466", "navn": "Mottaker Flexiblink Aurora", "tilbehor": ["195457"]},
     {"hmsnr": "195457", "navn": "Nødstrømsbatteri til Flexiblink-mottakere"},
