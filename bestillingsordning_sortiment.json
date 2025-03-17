@@ -107,7 +107,7 @@
     {"hmsnr": "249559", "navn": "Tidtaker Memo Timer tidsintervaller 15/30/45/60 minutter"},
     {"hmsnr": "289980", "navn": "Mino Samtaleforsterker"},
     {"hmsnr": "328220", "navn": "Companion Favorit med lader"},
-    {"hmsnr": "328345", "navn": "CL7370 Base lyttesystem", "tilbehor": ["328346", "328347"]},
+    {"hmsnr": "328345", "navn": "CL7370 Base lyttesystem"},
     {"hmsnr": "328346", "navn": "CL7370 mottaker stetoskopbøyle"},
     {"hmsnr": "328347", "navn": "CL7370 Mottaker med halsslynge"},
     {"hmsnr": "328219", "navn": "BT-200 Pro Wireless TV Speaker komplett inkl ladebase"}
