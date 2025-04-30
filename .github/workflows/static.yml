@@ -39,6 +39,8 @@ jobs:
           --url ${{ secrets.SLACK_URL }} \
           --header 'Content-Type: application/json' \
           --data '{"text": "<!here> Bygg feilet pga ugyldig JSON i siste commit"}'
+      - name: Fjern innhold i scripts før publisering
+        run: rm -rf scripts
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
