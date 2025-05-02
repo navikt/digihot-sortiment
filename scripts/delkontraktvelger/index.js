@@ -63,6 +63,10 @@ async function fetchSortiment(env) {
     .map((entry) => entry.postId);
 }
 
+function dato(timestamp) {
+  return timestamp.split("T")[0]
+}
+
 async function promptRammeavtaleSelection(rammeavtaler, label) {
   const { selected } = await inquirer.prompt([
     {
@@ -70,7 +74,7 @@ async function promptRammeavtaleSelection(rammeavtaler, label) {
       name: "selected",
       message: `Velg ${label} rammeavtale:`,
       choices: rammeavtaler.map((r) => ({
-        name: `${r.title} (${r.identifier})`,
+        name: `${r.id}   ${dato(r.published)} > ${dato(r.expired)}   ${r.title}`,
         value: r,
       })),
       pageSize: 30,
