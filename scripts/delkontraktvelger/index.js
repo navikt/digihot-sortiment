@@ -7,6 +7,24 @@ const environments = {
   dev: "https://finnhjelpemiddel.intern.dev.nav.no",
 };
 
+async function promptMode() {
+  const { mode } = await inquirer.prompt([
+    {
+      type: "list",
+      name: "mode",
+      message: "Hva vil du gjøre?",
+      choices: [
+        {
+          name: "Velg delkontrakter fra kommende rammeavtale",
+          value: "upcoming",
+        },
+        { name: "Endre delkontrakter i aktiv rammeavtale", value: "active" },
+      ],
+    },
+  ]);
+  return mode;
+}
+
 async function promptEnvironment() {
   const { env } = await inquirer.prompt([
     {
@@ -64,7 +82,7 @@ async function fetchSortiment(env) {
 }
 
 function dato(timestamp) {
-  return timestamp.split("T")[0]
+  return timestamp.split("T")[0];
 }
 
 async function promptRammeavtaleSelection(rammeavtaler, label) {
@@ -74,7 +92,9 @@ async function promptRammeavtaleSelection(rammeavtaler, label) {
       name: "selected",
       message: `Velg ${label} rammeavtale:`,
       choices: rammeavtaler.map((r) => ({
-        name: `${r.id}   ${dato(r.published)} > ${dato(r.expired)}   ${r.title}`,
+        name: `${r.id}   ${dato(r.published)} > ${dato(r.expired)}   ${
+          r.title
+        }`,
         value: r,
       })),
       pageSize: 30,
@@ -107,7 +127,7 @@ function displaySideBySideDelkontrakter(
       ? `#${oldDel.nr}: ${oldDel.title}`.padEnd(maxLeft)
       : "".padEnd(maxLeft);
 
-    const mark = oldDel && sortimentPostIds.includes(oldDel.id) ? "✅ " : "   ";
+    const mark = oldDel && sortimentPostIds.includes(oldDel.id) ? "🟢 " : "   ";
     const newText = newDel ? `#${newDel.nr}: ${newDel.title}` : "";
 
     console.log(`${mark}${oldText}  ${newText}`);
@@ -115,18 +135,21 @@ function displaySideBySideDelkontrakter(
   console.log();
 }
 
-async function promptNewDelkontrakterChoice(delkontrakter) {
+async function promptNewDelkontrakterChoice(
+  delkontrakter,
+  preselectedIds = []
+) {
   const { selected } = await inquirer.prompt([
     {
       type: "checkbox",
       name: "selected",
-      message:
-        "Velg hvilke delkontrakter du vil bruke fra den nye rammeavtalen:",
+      message: "Velg delkontrakter:",
       choices: delkontrakter.map((d) => ({
         name: `#${d.nr}: ${d.title}`,
         value: d.id,
+        checked: preselectedIds.includes(d.id),
       })),
-      pageSize: 15,
+      pageSize: 30,
     },
   ]);
   return selected;
@@ -134,52 +157,101 @@ async function promptNewDelkontrakterChoice(delkontrakter) {
 
 async function main() {
   const env = await promptEnvironment();
+  const mode = await promptMode();
   const sortimentPostIds = await fetchSortiment(env);
 
-  // Active
   const active = await fetchRammeavtaler(env, "ACTIVE");
   const selectedActive = await promptRammeavtaleSelection(active, "aktiv");
   const activeDetails = await fetchRammeavtaleDetails(env, selectedActive.id);
   const activeDelkontrakter = activeDetails.posts.sort((a, b) => a.nr - b.nr);
+
   console.log(chalk.green(`\nValgt aktiv rammeavtale:`));
   console.log(`${chalk.bold("Tittel")}: ${selectedActive.title}`);
   console.log(`${chalk.bold("ID")}: ${selectedActive.id}`);
 
-  // Inactive
-  const inactive = await fetchRammeavtaler(env, "INACTIVE");
-  const selectedInactive = await promptRammeavtaleSelection(
-    inactive,
-    "kommende"
-  );
-  const inactiveDetails = await fetchRammeavtaleDetails(
-    env,
-    selectedInactive.id
-  );
-  const inactiveDelkontrakter = inactiveDetails.posts.sort(
-    (a, b) => a.nr - b.nr
-  );
-  console.log(chalk.green(`\nValgt kommende rammeavtale:`));
-  console.log(`${chalk.bold("Tittel")}: ${selectedInactive.title}`);
-  console.log(`${chalk.bold("ID")}: ${selectedInactive.id}`);
-
-  // Side-by-side comparison
-  displaySideBySideDelkontrakter(
-    activeDelkontrakter,
-    inactiveDelkontrakter,
-    sortimentPostIds
-  );
-
-  // Select delkontrakter to keep
-  const selectedIds = await promptNewDelkontrakterChoice(inactiveDelkontrakter);
-
-  console.log(chalk.blue("\nValgte delkontrakter fra ny rammeavtale:"));
-  inactiveDelkontrakter
-    .filter((d) => selectedIds.includes(d.id))
-    .forEach((d) =>
-      console.log(
-        `#${chalk.bold(d.nr)}: ${d.title}  ${chalk.gray(`(ID: ${d.id})`)}`
-      )
+  let selectedIds;
+  if (mode === "upcoming") {
+    const inactive = await fetchRammeavtaler(env, "INACTIVE");
+    const selectedInactive = await promptRammeavtaleSelection(
+      inactive,
+      "kommende"
     );
+    const inactiveDetails = await fetchRammeavtaleDetails(
+      env,
+      selectedInactive.id
+    );
+    const inactiveDelkontrakter = inactiveDetails.posts.sort(
+      (a, b) => a.nr - b.nr
+    );
+
+    console.log(chalk.green(`\nValgt kommende rammeavtale:`));
+    console.log(`${chalk.bold("Tittel")}: ${selectedInactive.title}`);
+    console.log(`${chalk.bold("ID")}: ${selectedInactive.id}`);
+
+    displaySideBySideDelkontrakter(
+      activeDelkontrakter,
+      inactiveDelkontrakter,
+      sortimentPostIds
+    );
+
+    selectedIds = await promptNewDelkontrakterChoice(inactiveDelkontrakter);
+
+    console.log(chalk.blue("\nValgte delkontrakter fra ny rammeavtale:"));
+    inactiveDelkontrakter
+      .filter((d) => selectedIds.includes(d.id))
+      .forEach((d) =>
+        console.log(
+          `#${chalk.bold(d.nr)}: ${d.title}  ${chalk.gray(`(ID: ${d.id})`)}`
+        )
+      );
+  } else {
+    const preselectedIds = activeDelkontrakter
+      .filter((d) => sortimentPostIds.includes(d.id))
+      .map((d) => d.id);
+    selectedIds = await promptNewDelkontrakterChoice(
+      activeDelkontrakter,
+      preselectedIds
+    );
+
+    const kept = activeDelkontrakter.filter(
+      (d) => preselectedIds.includes(d.id) && selectedIds.includes(d.id)
+    );
+    const removed = activeDelkontrakter.filter(
+      (d) => preselectedIds.includes(d.id) && !selectedIds.includes(d.id)
+    );
+    const newlyAdded = activeDelkontrakter.filter(
+      (d) => !preselectedIds.includes(d.id) && selectedIds.includes(d.id)
+    );
+
+    console.log(chalk.blue("\nEndret delkontrakter i aktiv rammeavtale:"));
+
+    if (kept.length > 0) {
+      console.log(chalk.green("\n🟦 Beholdt delkontrakter:"));
+      kept.forEach((d) =>
+        console.log(
+          `#${chalk.bold(d.nr)}: ${d.title}  ${chalk.gray(`(ID: ${d.id})`)}`
+        )
+      );
+    }
+
+    if (newlyAdded.length > 0) {
+      console.log(chalk.yellow("\n🟢 Nye delkontrakter:"));
+      newlyAdded.forEach((d) =>
+        console.log(
+          `#${chalk.bold(d.nr)}: ${d.title}  ${chalk.gray(`(ID: ${d.id})`)}`
+        )
+      );
+    }
+
+    if (removed.length > 0) {
+      console.log(chalk.red("\n🔴 Fjernet delkontrakter:"));
+      removed.forEach((d) =>
+        console.log(
+          `#${chalk.bold(d.nr)}: ${d.title}  ${chalk.gray(`(ID: ${d.id})`)}`
+        )
+      );
+    }
+  }
 }
 
 main().catch((error) => {
