@@ -252,21 +252,17 @@ async function main() {
       )
     }
 
-    let jsonString = ''
-    const both = [...kept, ...newlyAdded].sort((a, b) => a.nr - b.nr)
+    const both = [...kept, ...newlyAdded]
     if (both.length) {
-      jsonString += '[\n'
-      both.forEach((d, i) => {
-        jsonString += `  { "postId": "${d.id}" }`
-        if (i < both.length - 1) {
-          jsonString += ','
-        }
-        jsonString += '\n'
-      })
-      jsonString += ']'
+      const json = []
+      both
+        .sort((a, b) => a.nr - b.nr)
+        .forEach((d) => {
+          json.push({ postId: d.id })
+        })
 
       console.log(chalk.magenta('\n🟣 JSON til sortiment'))
-      console.log(jsonString)
+      console.log(JSON.stringify(json, null, 2))
     }
   }
 }
