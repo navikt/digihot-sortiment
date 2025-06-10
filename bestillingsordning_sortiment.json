@@ -87,7 +87,6 @@
     {"hmsnr": "328347", "navn": "CL7370 Mottaker med halsslynge"},
     {"hmsnr": "328219", "navn": "BT-200 Pro Wireless TV Speaker komplett inkl ladebase"},
     {"hmsnr": "328242", "navn": "Røykvarsler ODIN Optical smoke alarm optisk"},
-    {"hmsnr": "328243", "navn": "Brannvarsler ELDAR heat alarm termisk"},
     {"hmsnr": "328245", "navn": "Vekkerklokke DINA digital alarm clock digital"},
     {"hmsnr": "328246", "navn": "Vekkerklokke ANNA analog alarm clock analog"},
     {"hmsnr": "289757", "navn": "Vekkerklokke SONIC Travel Clock Model 1 reisevekkerklokke"},
@@ -98,13 +97,10 @@
     {"hmsnr": "328251", "navn": "Mottaker ALMA Alerter stasjonær mottaker med display"},
     {"hmsnr": "328253", "navn": "Sengevibrator BRITT bed shaker"},
     {"hmsnr": "328252", "navn": "Sengevibrator BRITT bed shaker small"},
-    {"hmsnr": "328254", "navn": "Sender GURO gateway mobiltelefonsender"},
     {"hmsnr": "328256", "navn": "Sensor BRAGE universal audio sensor audiodetektor"},
-    {"hmsnr": "328257", "navn": "Sensor TOR fire system detector ledningstilkobling"},
     {"hmsnr": "328258", "navn": "Sensor ADAM universal audio sensor"},
     {"hmsnr": "328259", "navn": "Barnevakt BALDER baby"},
     {"hmsnr": "328260", "navn": "Sensor MARTIN Mobile Phone Transmitter"},
     {"hmsnr": "328261", "navn": "Sensor MARIUS mobile phone detector"},
-    {"hmsnr": "328266", "navn": "Varselur LEIF timer digital timer med sender"},
-    {"hmsnr": "328271", "navn": "Sensor med sender NOA no touch button berøringsfri"}
+    {"hmsnr": "328266", "navn": "Varselur LEIF timer digital timer med sender"}
 ]
