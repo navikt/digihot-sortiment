@@ -197,13 +197,18 @@ async function main() {
     selectedIds = await promptNewDelkontrakterChoice(inactiveDelkontrakter)
 
     console.log(chalk.blue('\nValgte delkontrakter fra ny rammeavtale:'))
+    let json = []
     inactiveDelkontrakter
       .filter((d) => selectedIds.includes(d.id))
-      .forEach((d) =>
+      .forEach((d) => {
+        json.push({ postId: d.id })
         console.log(
           `#${chalk.bold(d.nr)}: ${d.title}  ${chalk.gray(`(ID: ${d.id})`)}`
         )
-      )
+      })
+
+    console.log(chalk.magenta('\n🟣 JSON til sortiment'))
+    console.log(JSON.stringify(json, null, 2))
   } else {
     const preselectedIds = activeDelkontrakter
       .filter((d) => sortimentPostIds.includes(d.id))
