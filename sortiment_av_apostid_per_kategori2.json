@@ -338,7 +338,7 @@
       "postId": "987a483e-d016-48af-bfa7-f87aa0d79d00"
     }
   ],
-  "Manuelle rullestoler": [
+  "Manuelle rullestoler og drivaggregat": [
     {
       "apostid": 1381,
       "postId": "2633fe4a-eb1e-4d92-bc21-feef9712fcd3"
@@ -370,6 +370,21 @@
     {
       "apostid": 1390,
       "postId": "f98c008a-f17f-4bac-a0cf-9d63bb072e08"
+    },
+    {
+      "postId": "aaf32930-a37c-4c6f-87fa-a8dea896b99f"
+    },
+    {
+      "postId": "84007248-f953-4d71-ac36-ab1fc0e9cad3"
+    },
+    {
+      "postId": "1d6c3ab3-4dae-4836-b99a-3035b1ff2999"
+    },
+    {
+      "postId": "2ff43f84-89bb-4223-9570-129bc0a06e12"
+    },
+    {
+      "postId": "043ceec4-3e37-4386-a8e1-ea39b9b1cd97"
     }
   ],
   "Overflytting, vending og posisjonering": [
