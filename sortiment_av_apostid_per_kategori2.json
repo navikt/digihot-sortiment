@@ -226,7 +226,7 @@
   ],
   "Hørsels- og varslingshjelpemidler": [
     {
-    "postId": "960cf84e-f39c-42dc-97ee-b6652ca2601f"
+      "postId": "960cf84e-f39c-42dc-97ee-b6652ca2601f"
     },
     {
       "postId": "784db774-2c29-43ac-9b42-dadaf5ac8e6b"
@@ -591,86 +591,69 @@
   ],
   "Terskeleliminatorer og ramper": [
     {
-      "apostid": 1196,
-      "postId": "70a6968e-cb46-4d84-b1af-2c6345808ebd"
+      "postId": "51aaf01a-17a5-4305-897e-b2a19912bd38"
     },
     {
-      "apostid": 1197,
-      "postId": "50ece18e-ae00-467c-96a8-9bc5eba61a54"
+      "postId": "9d7c3039-2593-4bde-8278-cb32bd80cb48"
     },
     {
-      "apostid": 1198,
-      "postId": "3d52522c-71a4-416d-aaa4-9e092f81c520"
+      "postId": "21b76b5c-121b-4278-ae31-eb13fdac1454"
     },
     {
-      "apostid": 1199,
-      "postId": "7264993f-8df6-4e47-bd5f-ba55da6aa2f8"
+      "postId": "9ceffbe8-a0d1-4f0d-954b-4bae2672a6aa"
     },
     {
-      "apostid": 1200,
-      "postId": "ee923fba-6597-468d-a9be-5b0088000c46"
+      "postId": "8fee6bf5-617b-4633-b70e-177845638971"
     }
   ],
   "Varmehjelpemidler": [
     {
-      "apostid": 1285,
-      "postId": "0f2ed36e-1abf-4da3-90b5-b40ccf35b814"
+      "postId": "9ba79b90-8155-4f39-8709-eb2b7b954657"
     },
     {
-      "apostid": 1286,
-      "postId": "3ae20b52-fa81-4292-acdc-3be553c38624"
+      "postId": "527bef3d-5f15-4f61-9f98-d57b507caa3d"
     },
     {
-      "apostid": 1287,
-      "postId": "4967a6ee-6104-4ab6-8a2b-10a82e816589"
+      "postId": "5dcf819a-a9d3-48d4-9290-da3c2a4a3b39"
     },
     {
-      "apostid": 1288,
-      "postId": "12bef034-f290-4b77-a5d2-64bdb2c20d4b"
+      "postId": "3e70da9c-7810-41b1-be1b-b7feea03c15a"
     },
     {
-      "apostid": 1289,
-      "postId": "a906a71b-3e14-4496-a6af-24fdbf06a7b2"
+      "postId": "ad996dc5-e0fe-42c0-9364-bbfafe6c90a1"
     },
     {
-      "apostid": 1290,
-      "postId": "7bca8a11-e31c-4a53-8310-a433c27c8354"
+      "postId": "06ac0b85-e6ff-44cd-8580-a30f5cfa22e0"
     },
     {
-      "apostid": 1291,
-      "postId": "5cda93f1-89bb-453b-bf76-98026dbd3f76"
+      "postId": "02de5432-e616-4417-abf8-edf2c5205e14"
     },
     {
-      "apostid": 1292,
-      "postId": "5ee6e52a-079c-4613-a902-8e5217ceebf4"
+      "postId": "4fb52d3d-c876-424e-9d10-fc05b13a337a"
     },
     {
-      "apostid": 1293,
-      "postId": "edb46928-dbac-4b27-9e52-482252900125"
+      "postId": "e4a0e6b8-2c99-44cf-a4e3-f8dad732e6ce"
     },
     {
-      "apostid": 1294,
-      "postId": "a7e92221-1764-4944-a12c-71345c4e433d"
+      "postId": "becb2e72-cbe8-4541-a780-66ca57790829"
     },
     {
-      "apostid": 1295,
-      "postId": "7e3f12a2-8f3c-4aab-afe6-3ce1536db7d0"
+      "postId": "6606338f-7ac5-4c5b-a933-4d860265f1bc"
     },
     {
-      "apostid": 1296,
-      "postId": "f0af45e3-502a-435d-b7ad-a981cabfc7b2"
+      "postId": "bc754b82-00af-40f1-a6fd-ecd2ffde4afa"
     },
     {
-      "apostid": 1297,
-      "postId": "1e56a56d-ffd7-466c-aa3c-4d67bc32e8e9"
+      "postId": "485e1eab-431b-43cc-bce9-85857a0576bf"
     },
     {
-      "apostid": 1298,
-      "postId": "fe19169f-458b-4582-b109-c458c036cdee"
+      "postId": "03751c31-fc9b-4a10-95ca-9c2773a77f6f"
     },
     {
-      "apostid": 1299,
-      "postId": "07a22491-32c9-47e2-9c72-63f06acf3d6f"
+      "postId": "b0a3bd4f-857d-4f81-a28f-9a95bfb82796"
+    },
+    {
+      "postId": "626eddb8-5b25-4f15-8fa5-b4826f81f710"
     }
   ]
 }
