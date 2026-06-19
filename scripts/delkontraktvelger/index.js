@@ -8,6 +8,7 @@ const environments = {
 }
 
 async function promptMode() {
+
   const { mode } = await inquirer.prompt([
     {
       type: 'list',
@@ -23,18 +24,6 @@ async function promptMode() {
     },
   ])
   return mode
-}
-
-async function promptEnvironment() {
-  const { env } = await inquirer.prompt([
-    {
-      type: 'list',
-      name: 'env',
-      message: 'Velg miljø:',
-      choices: ['prod', 'dev'],
-    },
-  ])
-  return env
 }
 
 async function fetchRammeavtaler(env, status) {
@@ -156,7 +145,7 @@ async function promptNewDelkontrakterChoice(
 }
 
 async function main() {
-  const env = await promptEnvironment()
+  const env = 'prod'
   const mode = await promptMode()
   const sortimentPostIds = await fetchSortiment(env)
 
